@@ -27,5 +27,5 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio La Cartuja (Seville) | Cano — "Anais Tour 2027" | 2027-05-21 | On sale now |
 | Estadio de Gran Canaria (Las Palmas) | Granca Live Fest 2027 | 2027-07-01 to 2027-07-03 | On sale now |
 | Estadio do Sport Lisboa e Benfica (Lisbon) | Karol G — "Viajando Por El Mundo Tropitour" | 2027-06-18 | On sale now |
-| Estadio Jose Alvalade (Lisbon) | Sporting CP vs LASK Linz — UEFA Champions League | 2026-10-21 | On sale starting 2026-09-21 |
+| Estadio Jose Alvalade (Lisbon) | Sporting CP vs LASK Linz — UEFA Champions League | 2026-10-21 | Announced 2026-09-21 |
 | Estadio do Dragao (Porto) | FC Porto vs PSV Eindhoven — UEFA Champions League | 2026-10-20 | On sale now |
