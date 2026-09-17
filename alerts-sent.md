@@ -29,3 +29,19 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio do Sport Lisboa e Benfica (Lisbon) | Karol G — "Viajando Por El Mundo Tropitour" | 2027-06-18 | On sale now |
 | Estadio Jose Alvalade (Lisbon) | Sporting CP vs LASK Linz — UEFA Champions League | 2026-10-21 | Announced 2026-09-21 |
 | Estadio do Dragao (Porto) | FC Porto vs PSV Eindhoven — UEFA Champions League | 2026-10-20 | On sale now |
+
+## 2026-09-17
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Camp Nou (Barcelona) | FC Barcelona open training / stadium test event | 2026-11-07 | Announced (member presale 2026-10-31 to 11-01, general public sale after) |
+| RCDE Stadium (Barcelona) | RCD Espanyol vs Elche CF — LaLiga | 2026-09-18 | On sale now |
+| Estadio de Gran Canaria (Las Palmas) | UD Las Palmas vs Burgos CF — LaLiga2 | 2026-09-20 | On sale now |
+| Estadio de Balaidos (Vigo) | Celta Vigo vs Juventus — UEFA Europa League | 2026-10-15 | On sale now (limited availability) |
+| Estadio do Sport Lisboa e Benfica (Lisbon) | Luan Santana — "Registro Historico" | 2027-06-26 | On sale now |
+| Estadio Centenario (Montevideo) | Foo Fighters — "Take Cover Tour 2027" | 2027-02-23 | On sale now |
+| Estadio Monumental (Buenos Aires) | River Plate vs Huracan — Liga Profesional | 2026-09-19 | On sale now |
+| Estadio Monumental (Buenos Aires) | River Plate vs Deportivo Riestra — Liga Profesional | 2026-09-28 | On sale now (members); general public from 2026-09-22 |
+| Estadio Jose Alvalade (Lisbon) | Sporting CP vs LASK Linz — UEFA Champions League [updated] | 2026-10-21 | Announced — member priority window 09-21/22, extended member sale 09-23/27, general public sale 2026-09-28 if tickets remain |
+| Estadio do Dragao (Porto) | Portugal vs Norway — UEFA Nations League [status correction] | 2026-10-04 | Sold out at official box office (previously logged "on sale now") |
+| Estadio do Dragao (Porto) | FC Porto vs SL Benfica — "O Classico" — Liga Betclic | 2026-09-20 | Sold out on official channels, both clubs |
