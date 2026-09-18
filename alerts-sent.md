@@ -45,3 +45,19 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio Jose Alvalade (Lisbon) | Sporting CP vs LASK Linz — UEFA Champions League [updated] | 2026-10-21 | Announced — member priority window 09-21/22, extended member sale 09-23/27, general public sale 2026-09-28 if tickets remain |
 | Estadio do Dragao (Porto) | Portugal vs Norway — UEFA Nations League [status correction] | 2026-10-04 | Sold out at official box office (previously logged "on sale now") |
 | Estadio do Dragao (Porto) | FC Porto vs SL Benfica — "O Classico" — Liga Betclic | 2026-09-20 | Sold out on official channels, both clubs |
+
+## 2026-09-18
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Santiago Bernabeu (Madrid) | Real Madrid Juvenil A vs Santiago Wanderers — Copa Intercontinental Sub-20 (U-20 Intercontinental Cup) Final | 2026-09-19 | On sale now (general public, €15–24) |
+| Estadio San Mames (Bilbao) | Athletic Club vs Deportivo Alaves — LaLiga Matchday 7 | 2026-09-19 | On sale now (since 2026-08-31) |
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs Deportivo de La Coruna — LaLiga | 2026-10-11 | On sale now |
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs Levante — LaLiga | 2026-10-25 | On sale now |
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs Olympique Lyonnais — UEFA Europa League | 2026-11-05 | Announced / listed on sale |
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs Uniao Torreense — UEFA Europa League | 2026-12-10 | Announced / listed on sale |
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs Viktoria Plzen — UEFA Europa League | 2027-01-21 | Announced / listed on sale |
+| Estadio Nueva Romareda (Saragossa) | Real Zaragoza vs FC Cartagena — LaLiga Hypermotion (2a Division). Note: Nueva Romareda is demolished/under reconstruction until Aug 2027; club's current home is the temporary Ibercaja Estadio | 2026-09-20 | On sale now |
+| Estadio Mestalla (Valencia) | Valencia CF vs Real Sociedad — LaLiga | 2026-09-20 | On sale now |
+| Estadio Mestalla (Valencia) | Valencia CF — remaining first-half 2026/27 home LaLiga matches at Mestalla | Various, through ~Dec 2026 | On sale now |
+| Estadio Mestalla (Valencia) | Valencia CF — second-half 2026/27 home LaLiga matches at Mestalla | Various, from ~Jan 2027 | On sale now |
