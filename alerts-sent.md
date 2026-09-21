@@ -45,3 +45,19 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio Jose Alvalade (Lisbon) | Sporting CP vs LASK Linz — UEFA Champions League [updated] | 2026-10-21 | Announced — member priority window 09-21/22, extended member sale 09-23/27, general public sale 2026-09-28 if tickets remain |
 | Estadio do Dragao (Porto) | Portugal vs Norway — UEFA Nations League [status correction] | 2026-10-04 | Sold out at official box office (previously logged "on sale now") |
 | Estadio do Dragao (Porto) | FC Porto vs SL Benfica — "O Classico" — Liga Betclic | 2026-09-20 | Sold out on official channels, both clubs |
+
+## 2026-09-21
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Camp Nou (Barcelona) | FC Barcelona vs Getafe CF — LaLiga Matchday 8 | 2026-10-10 | On sale now |
+| Camp Nou (Barcelona) | El Clasico: FC Barcelona vs Real Madrid — LaLiga Matchday 10 | 2026-10-25 | VIP tickets on sale now; standard/Socio ticket window not yet confirmed open |
+| RCDE Stadium (Barcelona) | RCD Espanyol vs Atletico Madrid — LaLiga | 2026-10-17 | On sale now |
+| Estadio San Mames (Bilbao) | Athletic Club vs Getafe CF — LaLiga Matchday 10 | 2026-10-25 | On sale now |
+| Estadio de Gran Canaria (Las Palmas) | UD Las Palmas vs Real Valladolid — LaLiga Hypermotion | 2026-10-04 | On sale now |
+| Estadio Santiago Bernabeu (Madrid) | Real Madrid vs Villarreal CF / vs Sevilla FC — LaLiga | 2026-10-10, 2026-10-18 | Tickets available via official portal; exact current on-sale tier unconfirmed |
+| Estadio Anoeta / Reale Arena (San Sebastian) | Real Sociedad vs Levante UD — LaLiga | 2026-10-25 | Reported available (low confidence, not independently verified on official domain) |
+| Estadio Mestalla (Valencia) | Valencia CF — tickets on sale for all first-half-of-season 2026-27 home matches | Through ~Jan 2027 | On sale now |
+| Estadio do Dragao (Porto) | FC Porto vs SSC Napoli — UEFA Champions League Matchday 4 | 2026-11-04 | On sale now |
+| Estadio Centenario (Montevideo) | 2026 Copa Libertadores Final | 2026-11-28 | Announced (registration/interest phase open; no on-sale date published yet) |
+| Estadio Monumental (Buenos Aires) | Argentina vs Burkina Faso / Argentina vs Benin (Messi's farewell match with the national team) | 2026-10-03, 2026-10-06 | Announced — on sale 2026-09-22 at 18:00 via Deportick |
