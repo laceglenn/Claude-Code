@@ -61,3 +61,17 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio do Dragao (Porto) | FC Porto vs SSC Napoli — UEFA Champions League Matchday 4 | 2026-11-04 | On sale now |
 | Estadio Centenario (Montevideo) | 2026 Copa Libertadores Final | 2026-11-28 | Announced (registration/interest phase open; no on-sale date published yet) |
 | Estadio Monumental (Buenos Aires) | Argentina vs Burkina Faso / Argentina vs Benin (Messi's farewell match with the national team) | 2026-10-03, 2026-10-06 | Announced — on sale 2026-09-22 at 18:00 via Deportick |
+
+## 2026-09-22
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Monumental (Buenos Aires) | Argentina vs Burkina Faso / Argentina vs Benin (Messi's farewell match with the national team) [status update] | 2026-10-03, 2026-10-06 | On sale now (public sale opened 2026-09-22 18:00 via Deportick, as scheduled) |
+| Camp Nou (Barcelona) | FC Barcelona vs Alaves — LaLiga Matchday 11 | 2026-11-01 | On sale now |
+| Estadio Santiago Bernabeu (Madrid) | Real Madrid vs PSV Eindhoven — UEFA Champions League Matchday 5 | 2026-11-24 | On sale now |
+| Estadio Metropolitano (Madrid) | Atletico Madrid vs Manchester United — UEFA Champions League Matchday 2 | 2026-10-13 | On sale now (some sections reportedly sold out) |
+| Estadio de Gran Canaria (Las Palmas) | UD Las Palmas vs CD Castellon — LaLiga Hypermotion | 2026-10-18 | On sale now |
+| Estadio de Gran Canaria (Las Palmas) | UD Las Palmas vs Real Sociedad B — LaLiga Hypermotion | 2026-10-25 | On sale now |
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs RC Deportivo — LaLiga Matchday 8 | 2026-10-11 | On sale now |
+| Estadio de Balaidos (Vigo) | RC Celta vs Deportivo Alaves — LaLiga | 2026-10-18 | On sale now |
+| Estadio do Dragao (Porto) | FC Porto vs Academico de Viseu — Taca da Liga (Allianz Cup) quarter-final | 2026-10-28 | On sale now |
