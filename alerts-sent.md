@@ -75,3 +75,26 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio Anoeta (San Sebastian) | Real Sociedad vs RC Deportivo — LaLiga Matchday 8 | 2026-10-11 | On sale now |
 | Estadio de Balaidos (Vigo) | RC Celta vs Deportivo Alaves — LaLiga | 2026-10-18 | On sale now |
 | Estadio do Dragao (Porto) | FC Porto vs Academico de Viseu — Taca da Liga (Allianz Cup) quarter-final | 2026-10-28 | On sale now |
+
+## 2026-09-23
+
+**Note:** Direct WebFetch access to nearly every official ticketing domain (club sites, LaLiga, Ticketmaster, FRMF/CAF, Deportick, etc.) was blocked by this session's network egress proxy for all six research passes. Findings below are built from search-engine snippets/summaries cross-checked across sources, not first-hand page loads — confidence is noted per row, and no seat map could be visually confirmed first-hand this round (platform-level claims only, flagged where relevant).
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Camp Nou (Barcelona) | FC Barcelona vs Aston Villa — UEFA Champions League Matchday 4 | 2026-11-03 | On sale now |
+| Camp Nou (Barcelona) | FC Barcelona vs Manchester City — UEFA Champions League Matchday 6 | 2026-12-08 | On sale now |
+| RCDE Stadium (Barcelona) | RCD Espanyol vs RC Deportivo de A Coruna — LaLiga | 2026-11-08 | Fixture date corroborated across sources; official on-sale confirmation not found (unverified) |
+| Estadio de Gran Canaria (Las Palmas) | UD Las Palmas vs CD Eldense — LaLiga Hypermotion Matchday 13 | 2026-11-08 | Date confirmed via LaLiga; on-sale status not confirmed on club site (unverified) |
+| Estadio Santiago Bernabeu (Madrid) | Real Madrid vs Celta de Vigo — LaLiga | 2026-11-22 | On sale now (tiered Socio/Madridista/general public) |
+| Estadio Santiago Bernabeu (Madrid) | Real Madrid vs Deportivo Alaves — LaLiga | 2026-11-29 | On sale now (tiered) |
+| Estadio Santiago Bernabeu (Madrid) | Real Madrid vs CA Osasuna — LaLiga | 2026-12-13 | On sale now (tiered) |
+| Estadio Metropolitano (Madrid) | Atletico Madrid vs RC Deportivo — LaLiga Matchday 10 | 2026-10-25 | On sale now |
+| Estadio Metropolitano (Madrid) | Atletico Madrid vs Bayern Munich — UEFA Champions League Matchday 4 | 2026-11-03 | On sale now (limited — reported ~1,000 tickets left) |
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs Levante UD — LaLiga [status update] | 2026-10-25 | On sale now (confirmed via official club page + Levante UD's own official confirmation of their away allocation; previously logged as low-confidence) |
+| Estadio de Balaidos (Vigo) | RC Celta vs Royale Union Saint-Gilloise — UEFA Europa League | 2026-11-05 | Likely on sale (reseller signal of limited availability); not confirmed on official club site |
+| Estadio de Balaidos (Vigo) | RC Celta vs AFC Bournemouth — UEFA Europa League | 2026-11-26 | Fixture date confirmed officially; general on-sale not yet open |
+| Estadio do Dragao (Porto) | FC Porto vs Estoril Praia — Liga Portugal Matchday 10 | 2026-10-31 | On sale now |
+| Grand Stade de Marrakech (Marrakech) | KACM vs HUSA Agadir — Botola Pro Matchday 1 | 2026-09-27 | Likely on sale/imminent (within clubs' normal sale window); not directly confirmed on official ticketing platform. First reportable finding for any Morocco venue on the watch list. |
+
+**Watch-list note:** Estadio Nueva Romareda (Saragossa) is currently inactive — La Romareda was demolished and Real Zaragoza is playing all home matches at a temporary venue ("Ibercaja Estadio") until the new stadium opens (~August 2027). Nothing will appear for this stadium name until then; consider whether to track Ibercaja Estadio instead.
