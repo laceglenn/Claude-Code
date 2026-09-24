@@ -98,3 +98,16 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Grand Stade de Marrakech (Marrakech) | KACM vs HUSA Agadir — Botola Pro Matchday 1 | 2026-09-27 | Likely on sale/imminent (within clubs' normal sale window); not directly confirmed on official ticketing platform. First reportable finding for any Morocco venue on the watch list. |
 
 **Watch-list note:** Estadio Nueva Romareda (Saragossa) is currently inactive — La Romareda was demolished and Real Zaragoza is playing all home matches at a temporary venue ("Ibercaja Estadio") until the new stadium opens (~August 2027). Nothing will appear for this stadium name until then; consider whether to track Ibercaja Estadio instead.
+
+## 2026-09-24
+
+**Note:** WebFetch access to nearly every official ticketing domain was again blocked by this session's network egress proxy across all seven research passes this round. Findings below are built from search-engine snippets/summaries citing official sources, not first-hand page loads — confidence is noted per row.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio de Balaidos (Vigo) | RC Celta de Vigo vs Real Betis Balompie — LaLiga | 2026-10-25 | On sale now — Carnet Celtista (members) from EUR25 immediately; general public from EUR30 after first 24 hours |
+| Estadio Metropolitano (Madrid) | Atletico de Madrid vs FC Barcelona — LaLiga Matchday 12 | 2026-11-08 | On sale now (official product page live; heavy demand reported) |
+| Estadio do Dragao (Porto) | Portugal vs Norway — UEFA Nations League [status update] | 2026-10-04 | On sale again via FPF Bilheteira (official federation platform) — previously logged as sold out at the official box office on 2026-09-17 |
+| Estadio Centenario (Montevideo) | Penarol vs Nacional — Clasico Uruguayo | 2026-11-27 | Reported on sale / sale mechanics announced (Redpagos outlets for Tribunas, box office for Tribuna Olimpica) — low confidence, sourced from secondary news citing club/AUF announcements, not independently verified on penarol.org or auf.org.uy directly this round |
+
+**Status correction:** Grand Stade de Marrakech (Marrakech) — the KACM vs HUSA Agadir match logged on 2026-09-23 as "likely on sale/imminent" at this venue is actually being played at El Harti Stadium, not Grand Stade de Marrakech. Grand Stade de Marrakech has been closed since February 2026 for a major FIFA-driven renovation ahead of the 2030 World Cup (demolition/earthworks underway as of September 2026); no reopening date has been announced. KACM has relocated all home matches to El Harti Stadium for the 2026-27 season. No events are possible at Grand Stade de Marrakech until further notice.
