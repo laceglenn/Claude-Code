@@ -111,3 +111,14 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio Centenario (Montevideo) | Penarol vs Nacional — Clasico Uruguayo | 2026-11-27 | Reported on sale / sale mechanics announced (Redpagos outlets for Tribunas, box office for Tribuna Olimpica) — low confidence, sourced from secondary news citing club/AUF announcements, not independently verified on penarol.org or auf.org.uy directly this round |
 
 **Status correction:** Grand Stade de Marrakech (Marrakech) — the KACM vs HUSA Agadir match logged on 2026-09-23 as "likely on sale/imminent" at this venue is actually being played at El Harti Stadium, not Grand Stade de Marrakech. Grand Stade de Marrakech has been closed since February 2026 for a major FIFA-driven renovation ahead of the 2030 World Cup (demolition/earthworks underway as of September 2026); no reopening date has been announced. KACM has relocated all home matches to El Harti Stadium for the 2026-27 season. No events are possible at Grand Stade de Marrakech until further notice.
+
+## 2026-09-25
+
+**Note:** WebFetch access to nearly every official ticketing domain was again blocked by this session's network egress proxy across all six research passes this round. Findings below rely on search-engine snippets citing official sources rather than first-hand page loads — confidence is noted per row.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Camp Nou (Barcelona) | FC Barcelona vs RC Celta de Vigo — LaLiga Matchday 15 | 2026-12-06 | Likely on sale — an official ticket-selection page (tickets-official.fcbarcelona.com) was found for this fixture, but availability/price could not be directly confirmed (low confidence) |
+| Estadio Metropolitano (Madrid) | Atletico de Madrid vs Real Betis — LaLiga Matchday 15 | 2026-12-06 | Ambiguous — an official "entrada" product page exists (atleticodemadrid.com) alongside what may be a legacy notify-me page under a related ID; on-sale status could not be confirmed either way (low confidence) |
+
+**Status correction (unresolved):** Estadio Centenario (Montevideo) — the Penarol vs Nacional "Clasico Uruguayo" match logged on 2026-09-24 (2026-11-27, "reported on sale") could not be corroborated this round. Extensive searches of auf.org.uy and penarol.org found no article naming a 2026-11-27 Centenario clasico; Uruguay's 2026 league calendar suggests the Apertura/Clausura clasicos were hosted at Gran Parque Central and Campeon del Siglo, not Estadio Centenario. Flagging as likely erroneous pending a dated official source — not treated as a new report, but noted for the record.
