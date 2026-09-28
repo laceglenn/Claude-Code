@@ -122,3 +122,30 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio Metropolitano (Madrid) | Atletico de Madrid vs Real Betis — LaLiga Matchday 15 | 2026-12-06 | Ambiguous — an official "entrada" product page exists (atleticodemadrid.com) alongside what may be a legacy notify-me page under a related ID; on-sale status could not be confirmed either way (low confidence) |
 
 **Status correction (unresolved):** Estadio Centenario (Montevideo) — the Penarol vs Nacional "Clasico Uruguayo" match logged on 2026-09-24 (2026-11-27, "reported on sale") could not be corroborated this round. Extensive searches of auf.org.uy and penarol.org found no article naming a 2026-11-27 Centenario clasico; Uruguay's 2026 league calendar suggests the Apertura/Clausura clasicos were hosted at Gran Parque Central and Campeon del Siglo, not Estadio Centenario. Flagging as likely erroneous pending a dated official source — not treated as a new report, but noted for the record.
+
+## 2026-09-28
+
+**Note:** WebFetch access to nearly every official ticketing domain was again blocked by this session's network egress proxy across all four parallel research passes this round. Findings below are built from search-engine snippets/summaries citing official sources, not first-hand page loads — confidence is noted per row.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Camp Nou (Barcelona) | FC Barcelona vs Villarreal CF — LaLiga Matchday 13 | 2026-11-22 | On sale now |
+| Camp Nou (Barcelona) | FC Barcelona vs Real Sociedad — LaLiga Matchday 17 | 2026-12-20 | On sale now |
+| Camp Nou (Barcelona) | FC Barcelona vs RC Celta de Vigo — LaLiga Matchday 15 [status update] | 2026-12-06 | On sale now — official page now shows "on sale" copy, upgraded from the low-confidence "likely on sale" logged 2026-09-25 |
+| Camp Nou (Barcelona) | FC Barcelona vs Elche CF — LaLiga Matchday 20 | 2027-01-17 | Official ticket page live; explicit "on sale" wording not directly confirmed (medium confidence) |
+| Estadio Santiago Bernabeu (Madrid) | Real Madrid vs Villarreal CF — LaLiga [status update] | 2026-10-10 | On sale now, tickets from EUR225 — previously logged with ticket tier unconfirmed |
+| Estadio Santiago Bernabeu (Madrid) | Real Madrid vs Sevilla FC — LaLiga [status update] | 2026-10-18 | On sale now, Cat 3 from ~EUR191 — previously logged with ticket tier unconfirmed |
+| Estadio Metropolitano (Madrid) | Atletico Madrid vs Viking FK — UEFA Champions League | 2026-11-25 | On sale now |
+| Estadio Metropolitano (Madrid) | Atletico Madrid vs Fenerbahce SK — UEFA Champions League | 2027-01-27 | Premium hospitality tier ("Neptuno ATM Premium Champions") on sale; general on-sale date unconfirmed (medium confidence) |
+| Estadio de Balaidos (Vigo) | RC Celta de Vigo vs Villarreal CF — LaLiga | 2026-11-29 | On sale now |
+| Estadio de Balaidos (Vigo) | RC Celta de Vigo vs Atletico Madrid — LaLiga | 2026-12-20 | On sale now |
+| Grand Stade de Tanger (Tangier) | Morocco vs Ghana — international friendly | 2026-10-04 | On sale now — sales opened 2026-09-27 14:00 exclusively via Webook (FRMF's official ticketing partner). First confirmed on-sale event found for any Morocco venue on this watch list |
+| Grand Stade de Tanger (Tangier) | IR Tanger vs Moghreb Atletico Tetouan — Botola Pro | 2026-10-02 | Fixture confirmed on official club calendar/ticketing site (irt.guichet.com); live on-sale status not independently verified (medium-high confidence) |
+| Estadio do Sport Lisboa e Benfica (Lisbon) | Benfica vs Celtic FC — UEFA Europa League | 2026-10-15 | On sale now |
+
+**Status corrections (not new alerts, logged for the record):**
+- Estadio do Dragao (Porto): Portugal vs Norway — UEFA Nations League (2026-10-04) — reverted to sold out again per an official FPF statement, after having briefly reopened as of the 2026-09-24 check.
+- Estadio Centenario (Montevideo): the Penarol vs Nacional derby (2026-11-27), flagged as likely erroneous on 2026-09-25, is now confirmed via official Penarol club news to actually be hosted at Estadio Campeon del Siglo, not Estadio Centenario — removed from this watch list as out of scope.
+- Estadio Jose Alvalade (Lisbon): Sporting CP vs LASK Linz general public sale (2026-10-21 fixture) was scheduled to open to the general public today, 2026-09-28; status could not be independently confirmed this round (no sold-out coverage found, suggesting it may have opened as scheduled) — left as previously logged pending clearer confirmation.
+- Grand Stade de Marrakech: confirmed still closed for renovation, no change.
+- Estadio Nueva Romareda (Saragossa): confirmed no change — still inactive, Real Zaragoza playing at temporary Ibercaja Estadio until ~2027.
