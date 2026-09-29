@@ -149,3 +149,12 @@ Log of events already emailed to the user, so future checks don't repeat them.
 - Estadio Jose Alvalade (Lisbon): Sporting CP vs LASK Linz general public sale (2026-10-21 fixture) was scheduled to open to the general public today, 2026-09-28; status could not be independently confirmed this round (no sold-out coverage found, suggesting it may have opened as scheduled) — left as previously logged pending clearer confirmation.
 - Grand Stade de Marrakech: confirmed still closed for renovation, no change.
 - Estadio Nueva Romareda (Saragossa): confirmed no change — still inactive, Real Zaragoza playing at temporary Ibercaja Estadio until ~2027.
+
+## 2026-09-29
+
+**Note:** Direct access to most official ticketing domains was blocked again this round. Findings rely on search-engine results citing official sources — confidence noted per row. No seat map could be confirmed first-hand.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Santiago Bernabeu (Madrid) | Real Madrid vs RB Leipzig — UEFA Champions League (league phase) | 2026-10-21 | On sale now — official realmadrid.com ticket page exists; official channels realmadrid.com and entradas.com only |
+| Estadio do Sport Lisboa e Benfica (Lisbon) | SL Benfica vs Vitoria SC — Liga Betclic | 2026-10-11 | On sale now (low-medium confidence) — availability seen only via third-party listings; official Benfica channels per club notice, event-specific official page not confirmed |
