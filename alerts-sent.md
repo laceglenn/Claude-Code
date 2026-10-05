@@ -158,3 +158,11 @@ Log of events already emailed to the user, so future checks don't repeat them.
 |---|---|---|---|
 | Estadio Santiago Bernabeu (Madrid) | Real Madrid vs RB Leipzig — UEFA Champions League (league phase) | 2026-10-21 | On sale now — official realmadrid.com ticket page exists; official channels realmadrid.com and entradas.com only |
 | Estadio do Sport Lisboa e Benfica (Lisbon) | SL Benfica vs Vitoria SC — Liga Betclic | 2026-10-11 | On sale now (low-medium confidence) — availability seen only via third-party listings; official Benfica channels per club notice, event-specific official page not confirmed |
+
+## 2026-10-05
+
+**Note:** Direct access to official ticketing domains (e.g. All Access) was blocked by the network egress proxy; findings rely on press coverage citing official sellers. Seat map not verified.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Monumental (Buenos Aires) | Maná — "Vivir Sin Aire Tour" | 2026-12-10 | On sale now (presale 2026-06-18, general sale 2026-06-19 via All Access) |
