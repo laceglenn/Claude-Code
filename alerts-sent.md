@@ -158,3 +158,12 @@ Log of events already emailed to the user, so future checks don't repeat them.
 |---|---|---|---|
 | Estadio Santiago Bernabeu (Madrid) | Real Madrid vs RB Leipzig — UEFA Champions League (league phase) | 2026-10-21 | On sale now — official realmadrid.com ticket page exists; official channels realmadrid.com and entradas.com only |
 | Estadio do Sport Lisboa e Benfica (Lisbon) | SL Benfica vs Vitoria SC — Liga Betclic | 2026-10-11 | On sale now (low-medium confidence) — availability seen only via third-party listings; official Benfica channels per club notice, event-specific official page not confirmed |
+
+## 2026-10-06
+
+**Note:** Findings built from search-engine snippets citing official sources (direct page loads not available); no seat map could be confirmed first-hand. Confidence medium.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Monumental (Buenos Aires) | Karol G — "Viajando por el Mundo Tropitour" | 2027-02-05 | On sale now (presale 2026-05-20, general 2026-05-21 via All Access) |
+| Estadio Monumental (Buenos Aires) | Foo Fighters — "Take Cover Tour" (w/ Usted Senalemelo, Pacifica) | 2027-02-25 | On sale now (presale 2026-08-11, general 2026-08-12 via All Access) |
