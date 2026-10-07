@@ -167,3 +167,11 @@ Log of events already emailed to the user, so future checks don't repeat them.
 |---|---|---|---|
 | Estadio Monumental (Buenos Aires) | Karol G — "Viajando por el Mundo Tropitour" | 2027-02-05 | On sale now (presale 2026-05-20, general 2026-05-21 via All Access) |
 | Estadio Monumental (Buenos Aires) | Foo Fighters — "Take Cover Tour" (w/ Usted Senalemelo, Pacifica) | 2027-02-25 | On sale now (presale 2026-08-11, general 2026-08-12 via All Access) |
+
+## 2026-10-07
+
+**Note:** Most official ticketing domains were blocked by the egress proxy again; findings rely on search results citing official sources. No seat map could be confirmed first-hand.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Monumental (Buenos Aires) | Maná — "Vivir Sin Aire Tour" | 2026-12-10 | On sale now (general sale opened 2026-06-19 via All Access; medium confidence, from news reports) |
