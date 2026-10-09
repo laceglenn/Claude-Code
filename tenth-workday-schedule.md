@@ -6,6 +6,7 @@ weekends and Swiss federal / Zurich cantonal public holidays.
 | Month | Year | 10th Business Day |
 |-------|------|--------------------|
 | September | 2026 | 2026-09-15 (Monday) |
+| October | 2026 | 2026-10-14 (Wednesday) |
 
 ## Notes
 
@@ -14,3 +15,6 @@ weekends and Swiss federal / Zurich cantonal public holidays.
   as a non-business day per instruction, despite not being an official statutory
   holiday.
   Business days counted: Sep 1, 2, 3, 4, 7, 8, 9, 10, 11, 15.
+- **October 2026**: No Swiss federal or Zurich cantonal public holidays fall in
+  October; Sechseläuten (April) and Knabenschiessen (Sept 14) are not in this
+  month. Business days counted: Oct 1, 2, 5, 6, 7, 8, 9, 12, 13, 14.
