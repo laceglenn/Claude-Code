@@ -175,3 +175,14 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Stadium | Event | Event Date | Ticket Status |
 |---|---|---|---|
 | Estadio Monumental (Buenos Aires) | Maná — "Vivir Sin Aire Tour" | 2026-12-10 | On sale now (general sale opened 2026-06-19 via All Access; medium confidence, from news reports) |
+
+## 2026-10-13
+
+**Note:** Direct access to official ticketing pages was not possible this round; findings rely on search results citing official/ticketing sources. No seat map could be confirmed first-hand.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Metropolitano (Madrid) | Don Omar — "The Last King World Tour" | 2027-07-15 | On sale now (low-medium confidence; single aggregator source, via Ticketmaster / El Corte Ingles / Entradas.com / Fever) |
+| Estadio de Gran Canaria (Las Palmas) | Don Omar — "The Last King World Tour" (Anexo del Estadio) | 2027-07-24 | On sale now (medium confidence; sale reported to start 2026-08-12) |
+
+(Karol G at Estadio Monumental, 2027-02-05, was re-included in the 2026-10-13 email by mistake; it was already logged on 2026-10-06.)
