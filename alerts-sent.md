@@ -186,3 +186,13 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio de Gran Canaria (Las Palmas) | Don Omar — "The Last King World Tour" (Anexo del Estadio) | 2027-07-24 | On sale now (medium confidence; sale reported to start 2026-08-12) |
 
 (Karol G at Estadio Monumental, 2027-02-05, was re-included in the 2026-10-13 email by mistake; it was already logged on 2026-10-06.)
+
+## 2026-10-14
+
+**Note:** Findings rely on search-engine results; most official ticketing domains could not be loaded directly. Seat maps not confirmed first-hand.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Monumental (Buenos Aires) | Foo Fighters — Take Cover Tour | 2027-02-25 | On sale now (general sale opened 2026-08-12 via All Access, official) |
+| Camp Nou (Barcelona) | FC Barcelona vs Como 1907 — UEFA Champions League | 2027-01-27 | On sale now (low confidence: only barcelona.com official-agent listing; no fcbarcelona.com page found) |
+| Camp Nou (Barcelona) | FC Barcelona vs Valencia CF — LaLiga | 2027-01-31 | On sale now (low confidence: only barcelona.com official-agent listing) |
