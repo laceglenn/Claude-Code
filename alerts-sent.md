@@ -196,3 +196,11 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio Monumental (Buenos Aires) | Foo Fighters — Take Cover Tour | 2027-02-25 | On sale now (general sale opened 2026-08-12 via All Access, official) |
 | Camp Nou (Barcelona) | FC Barcelona vs Como 1907 — UEFA Champions League | 2027-01-27 | On sale now (low confidence: only barcelona.com official-agent listing; no fcbarcelona.com page found) |
 | Camp Nou (Barcelona) | FC Barcelona vs Valencia CF — LaLiga | 2027-01-31 | On sale now (low confidence: only barcelona.com official-agent listing) |
+
+## 2026-10-20
+
+**Note:** Official club/ticketing domains were not fetchable this run; findings rely on search snippets citing official sources.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Metropolitano (Madrid) | Estopa concert — "La Maketa" tour | 2027-07-09 | Announced — presale started 2026-10-18 (requires physical album reservation); club-fan 24h exclusive window; general sale date not found (medium confidence) |
