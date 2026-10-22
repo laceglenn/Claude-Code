@@ -204,3 +204,13 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Stadium | Event | Event Date | Ticket Status |
 |---|---|---|---|
 | Estadio Metropolitano (Madrid) | Estopa concert — "La Maketa" tour | 2027-07-09 | Announced — presale started 2026-10-18 (requires physical album reservation); club-fan 24h exclusive window; general sale date not found (medium confidence) |
+
+## 2026-10-22
+
+**Note:** Direct access to official ticketing domains is limited; findings rely on search results citing official/press sources. Confidence noted per row. No seat map could be confirmed first-hand.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Monumental (Buenos Aires) | U2 — "The Greatest Show on Earth World Tour" (w/ Beck), 2 dates | 2027-03-23, 2027-03-25 | On sale now — general sale opened 2026-10-22 10:00 exclusively via All Access (Santander Visa presale from 10-21); ARS 120,000–700,000 before fees |
+
+(Foo Fighters at Estadio Monumental, 2027-02-25, was re-included in the 2026-10-22 email by mistake; it was already logged on 2026-10-14.)
