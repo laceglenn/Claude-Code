@@ -214,3 +214,9 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio Monumental (Buenos Aires) | U2 — "The Greatest Show on Earth World Tour" (w/ Beck), 2 dates | 2027-03-23, 2027-03-25 | On sale now — general sale opened 2026-10-22 10:00 exclusively via All Access (Santander Visa presale from 10-21); ARS 120,000–700,000 before fees |
 
 (Foo Fighters at Estadio Monumental, 2027-02-25, was re-included in the 2026-10-22 email by mistake; it was already logged on 2026-10-14.)
+
+## 2026-10-26
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio San Mames (Bilbao) | Arde Bogota — "Como construir un recuerdo" tour | 2027-06-12 | On sale now (general sale opened 2026-10-22 12:00; presale ended 2026-10-21). Medium confidence — secondary reports of the official announcement; official ticket page not loaded; seat map not verified |
