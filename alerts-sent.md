@@ -220,3 +220,5 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Stadium | Event | Event Date | Ticket Status |
 |---|---|---|---|
 | Estadio San Mames (Bilbao) | Arde Bogota — "Como construir un recuerdo" tour | 2027-06-12 | On sale now (general sale opened 2026-10-22 12:00; presale ended 2026-10-21). Medium confidence — secondary reports of the official announcement; official ticket page not loaded; seat map not verified |
+
+(Karol G at Estadio Monumental, 2027-02-05, was re-included in the 2026-10-27 email by mistake; it was already logged on 2026-10-06. Nothing new found on 2026-10-27.)
