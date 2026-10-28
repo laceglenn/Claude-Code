@@ -159,7 +159,6 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio Santiago Bernabeu (Madrid) | Real Madrid vs RB Leipzig — UEFA Champions League (league phase) | 2026-10-21 | On sale now — official realmadrid.com ticket page exists; official channels realmadrid.com and entradas.com only |
 | Estadio do Sport Lisboa e Benfica (Lisbon) | SL Benfica vs Vitoria SC — Liga Betclic | 2026-10-11 | On sale now (low-medium confidence) — availability seen only via third-party listings; official Benfica channels per club notice, event-specific official page not confirmed |
 
-<<<<<<< Updated upstream
 ## 2026-10-06
 
 **Note:** Findings built from search-engine snippets citing official sources (direct page loads not available); no seat map could be confirmed first-hand. Confidence medium.
@@ -223,14 +222,11 @@ Log of events already emailed to the user, so future checks don't repeat them.
 | Estadio San Mames (Bilbao) | Arde Bogota — "Como construir un recuerdo" tour | 2027-06-12 | On sale now (general sale opened 2026-10-22 12:00; presale ended 2026-10-21). Medium confidence — secondary reports of the official announcement; official ticket page not loaded; seat map not verified |
 
 (Karol G at Estadio Monumental, 2027-02-05, was re-included in the 2026-10-27 email by mistake; it was already logged on 2026-10-06. Nothing new found on 2026-10-27.)
-=======
-## 2026-10-28
 
-**Note:** Official ticketing domains could not be fetched directly; findings rely on search-engine results citing official/agenda sources — confidence noted per row. No event-specific seat map could be confirmed first-hand.
+## 2026-10-28
 
 | Stadium | Event | Event Date | Ticket Status |
 |---|---|---|---|
-| Estadio Metropolitano (Madrid) | Estopa — "La Maketa" tour | 2027-07-09 | Announced (confirmed on atleticodemadrid.com; 24h fan early access after album release 2026-11-20, general on-sale date not yet published) |
 | Estadio Metropolitano (Madrid) | Don Omar — "The Last King World Tour" | 2027-07-15 | Listed with tickets from EUR58 (agenda listing; official on-sale not directly confirmed — medium-low confidence) |
-| Estadio Monumental (Buenos Aires) | Foo Fighters — "Take Cover Tour" (Estadio River Plate) | 2027-02-25 | On sale now (presale 2026-08-11, general 2026-08-12 via All Access; not previously logged for Monumental) |
->>>>>>> Stashed changes
+
+(Estopa at the Metropolitano and Foo Fighters at Estadio Monumental were re-included in the 2026-10-28 email by mistake; both were already logged.)
