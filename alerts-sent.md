@@ -225,8 +225,4 @@ Log of events already emailed to the user, so future checks don't repeat them.
 
 ## 2026-10-28
 
-| Stadium | Event | Event Date | Ticket Status |
-|---|---|---|---|
-| Estadio Metropolitano (Madrid) | Don Omar — "The Last King World Tour" | 2027-07-15 | Listed with tickets from EUR58 (agenda listing; official on-sale not directly confirmed — medium-low confidence) |
-
-(Estopa at the Metropolitano and Foo Fighters at Estadio Monumental were re-included in the 2026-10-28 email by mistake; both were already logged.)
+Nothing new found. An email was sent in error: Estopa (Metropolitano), Don Omar (Metropolitano) and Foo Fighters (Monumental) were all already logged above (the run read a stale copy of this file).
