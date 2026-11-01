@@ -8,6 +8,7 @@ weekends and Swiss federal / Zurich cantonal public holidays.
 | September | 2026 | 2026-09-15 (Monday) |
 | October | 2026 | 2026-10-14 (Wednesday) |
 | October | 2026 | 2026-10-14 (Wednesday) |
+| November | 2026 | 2026-11-13 (Friday) |
 
 ## Notes
 
@@ -22,3 +23,7 @@ weekends and Swiss federal / Zurich cantonal public holidays.
 
 - **October 2026**: No Swiss federal or Zurich cantonal public holidays in
   October. Business days counted: Oct 1, 2, 5, 6, 7, 8, 9, 12, 13, 14.
+- **November 2026**: No Swiss federal or Zurich cantonal public holidays in
+  November (Allerheiligen, Nov 1, is a Sunday and not a Zurich holiday);
+  Sechseläuten (April) and Knabenschiessen (Sept 14) are not in this month.
+  Business days counted: Nov 2, 3, 4, 5, 6, 9, 10, 11, 12, 13.
