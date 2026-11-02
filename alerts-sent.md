@@ -226,3 +226,14 @@ Log of events already emailed to the user, so future checks don't repeat them.
 ## 2026-10-28
 
 Nothing new found. An email was sent in error: Estopa (Metropolitano), Don Omar (Metropolitano) and Foo Fighters (Monumental) were all already logged above (the run read a stale copy of this file).
+
+## 2026-11-02
+
+**Note:** Direct page fetches of official ticketing domains were blocked by this session's network proxy. Findings rely on search-engine results citing official sources — confidence noted per row. No seat map could be confirmed first-hand.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Centenario (Montevideo) | 2026 Copa Libertadores Final [status update] | 2026-11-28 | On sale now — Conmebol began sales 2026-10-29 (gol.conmebol.com/libertadores/en/ticketing/montevideo2026); previously logged as announced. Finalists reported as Palmeiras vs Estudiantes (single source) |
+| Estadio do Sport Lisboa e Benfica (Lisbon) | U2 — The Greatest Show on Earth tour | 2027-05-27 | Announced — presales 2026-11-02 (U2.com), 11-04 (Visa), 11-05 (Live Nation); general sale 2026-11-06 10:00 via livenation.pt |
+
+(Maná at Estadio Monumental, 2026-12-10, was re-included in the 2026-11-02 email by mistake; it was already logged on 2026-10-07. This run started from a stale copy of this file.)
