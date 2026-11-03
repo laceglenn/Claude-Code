@@ -237,3 +237,16 @@ Nothing new found. An email was sent in error: Estopa (Metropolitano), Don Omar 
 | Estadio do Sport Lisboa e Benfica (Lisbon) | U2 — The Greatest Show on Earth tour | 2027-05-27 | Announced — presales 2026-11-02 (U2.com), 11-04 (Visa), 11-05 (Live Nation); general sale 2026-11-06 10:00 via livenation.pt |
 
 (Maná at Estadio Monumental, 2026-12-10, was re-included in the 2026-11-02 email by mistake; it was already logged on 2026-10-07. This run started from a stale copy of this file.)
+
+## 2026-11-03
+
+**Note:** Findings built from search-engine snippets citing official sources (direct page loads unavailable); no seat map confirmed first-hand for any item.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Centenario (Montevideo) | 2026 Copa Libertadores Final (Estudiantes vs Palmeiras) [status update] | 2026-11-28 | On sale now (Conmebol presale 2026-10-29; general public sale opened 2026-11-02 14:00) |
+| Estadio Monumental (Buenos Aires) | U2 — "The Greatest Show on Earth" (2 dates) | 2027-03-23, 2027-03-25 | On sale now (general sale opened 2026-10-22 via AllAccess; current availability unknown) |
+| Estadio Monumental (Buenos Aires) | Foo Fighters | 2027-02-25 | On sale now (single-source, medium confidence) |
+| Estadio Monumental (Buenos Aires) | Karol G — "Tropitour" | 2027-02-05 | On sale now (low confidence; presale 2026-05-20, general-sale status unconfirmed) |
+| Estadio Metropolitano (Madrid) | Estopa — "La Maketa" tour | 2027-07-09 | Announced — presale codes 2026-11-16, general sale 2026-11-17 ~22:00 via estopa.com |
+| Estadio do Sport Lisboa e Benfica (Lisbon) | U2 — "The Greatest Show on Earth" (w/ Wolf Alice) | 2027-05-27 | Announced — U2.com presale 2026-11-02, Visa presale 2026-11-04, general sale 2026-11-06 10:00 via Live Nation Portugal |
