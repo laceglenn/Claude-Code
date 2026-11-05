@@ -245,3 +245,7 @@ Nothing new found. An email was sent in error: the Libertadores final (Centenari
 ## 2026-11-04
 
 Nothing new found. An email was sent in error: U2 (Lisbon, 2027-05-27), U2 (Monumental), and Foo Fighters (Monumental) were all already logged above (the run read a stale copy of this file from the working branch before checking origin/main). No new events or status changes.
+
+## 2026-11-05
+
+Nothing new found. An email was sent in error: the Libertadores final (Centenario), U2 (Lisbon, 2027-05-27), U2 and Foo Fighters (Monumental), and Don Omar (Metropolitano) were all already logged above (the run read a stale copy of this file from the working branch instead of origin/main). Lesson: always `git fetch origin main` and read origin/main:alerts-sent.md before comparing.
