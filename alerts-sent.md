@@ -249,3 +249,11 @@ Nothing new found. An email was sent in error: U2 (Lisbon, 2027-05-27), U2 (Monu
 ## 2026-11-05
 
 Nothing new found. An email was sent in error: the Libertadores final (Centenario), U2 (Lisbon, 2027-05-27), U2 and Foo Fighters (Monumental), and Don Omar (Metropolitano) were all already logged above (the run read a stale copy of this file from the working branch instead of origin/main). Lesson: always `git fetch origin main` and read origin/main:alerts-sent.md before comparing.
+
+## 2026-11-06
+
+Mostly duplicates: an email was sent in error because the run read a stale copy of this file from the working branch. U2 (Lisbon, 2027-05-27), Estopa and Don Omar (Metropolitano) were already logged above. Only genuinely new item below (WebFetch was blocked; snippet-based, low confidence). U2 Lisbon's general sale (2026-11-06 10:00 via livenation.pt) was not independently confirmed open at check time (07:14 UTC).
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Monumental (Buenos Aires) | Mana (single show, first time at River) | 2026-12-10 | Announced — sale reportedly announced; exact on-sale date/status not confirmed (low confidence) |
