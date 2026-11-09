@@ -257,3 +257,7 @@ Mostly duplicates: an email was sent in error because the run read a stale copy 
 | Stadium | Event | Event Date | Ticket Status |
 |---|---|---|---|
 | Estadio Monumental (Buenos Aires) | Mana (single show, first time at River) | 2026-12-10 | Announced — sale reportedly announced; exact on-sale date/status not confirmed (low confidence) |
+
+## 2026-11-09
+
+Nothing new found. An email was sent in error: the Libertadores final (Centenario) and U2 (Monumental, 2027-03-23/25) were both already logged above as "on sale now" (the run read a stale copy of this file from the working branch before fetching origin/main). No new events or status changes.
