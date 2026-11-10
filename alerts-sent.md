@@ -261,3 +261,12 @@ Mostly duplicates: an email was sent in error because the run read a stale copy 
 ## 2026-11-09
 
 Nothing new found. An email was sent in error: the Libertadores final (Centenario) and U2 (Monumental, 2027-03-23/25) were both already logged above as "on sale now" (the run read a stale copy of this file from the working branch before fetching origin/main). No new events or status changes.
+
+## 2026-11-10
+
+Snippet-based (WebFetch blocked for livenation.pt / gol.conmebol.com); no official seat map could be verified first-hand.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio do Sport Lisboa e Benfica (Lisbon) | U2 — The Greatest Show on Earth tour [status update] | 2027-05-27 | On sale now — general sale opened 2026-11-06 10:00 via Live Nation Portugal (livenation.pt); previously logged as announced |
+| Estadio do Sport Lisboa e Benfica (Lisbon) | U2 — The Greatest Show on Earth tour, second date (w/ Wolf Alice) | 2027-05-28 | On sale now — added after demand; general sale opened 2026-11-06 10:00 via livenation.pt; seated from ~EUR95 (news-reported) |
