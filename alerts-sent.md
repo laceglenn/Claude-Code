@@ -270,3 +270,13 @@ Snippet-based (WebFetch blocked for livenation.pt / gol.conmebol.com); no offici
 |---|---|---|---|
 | Estadio do Sport Lisboa e Benfica (Lisbon) | U2 — The Greatest Show on Earth tour [status update] | 2027-05-27 | On sale now — general sale opened 2026-11-06 10:00 via Live Nation Portugal (livenation.pt); previously logged as announced |
 | Estadio do Sport Lisboa e Benfica (Lisbon) | U2 — The Greatest Show on Earth tour, second date (w/ Wolf Alice) | 2027-05-28 | On sale now — added after demand; general sale opened 2026-11-06 10:00 via livenation.pt; seated from ~EUR95 (news-reported) |
+
+## 2026-11-11
+
+Snippet-based (the network proxy blocked all official ticketing domains); seat map not verified first-hand.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs Real Madrid — LaLiga Matchday 23 (brought forward from Feb 2027 due to Supercopa) | 2026-12-02 19:00 | On sale now — club activated official sale (medium confidence, news reports citing club/LaLiga; realsociedad.eus not loadable) |
+
+(Status notes, no change in logged status: Estopa at Metropolitano general sale reported for 2026-11-17 ~22:00 via estopa.com — still "announced". Real Madrid vs Alaves moved to 2026-11-28 21:00.)
