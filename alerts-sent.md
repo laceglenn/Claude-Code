@@ -280,3 +280,11 @@ Snippet-based (the network proxy blocked all official ticketing domains); seat m
 | Estadio Anoeta (San Sebastian) | Real Sociedad vs Real Madrid — LaLiga Matchday 23 (brought forward from Feb 2027 due to Supercopa) | 2026-12-02 19:00 | On sale now — club activated official sale (medium confidence, news reports citing club/LaLiga; realsociedad.eus not loadable) |
 
 (Status notes, no change in logged status: Estopa at Metropolitano general sale reported for 2026-11-17 ~22:00 via estopa.com — still "announced". Real Madrid vs Alaves moved to 2026-11-28 21:00.)
+
+## 2026-11-12
+
+Snippet-based (rfef.es and athletic-club.eus were blocked by the network proxy); seat map not verified first-hand.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio Metropolitano (Madrid) | Spain vs England — UEFA Nations League | 2026-11-15 20:45 | On sale now — via tickets.rfef.es only (Atletico member presale from 2026-09-22; re-released 2026-11-05 17:00 after irregularities; <2,500 left in final phase per RFEF). Medium confidence |
