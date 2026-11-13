@@ -288,3 +288,11 @@ Snippet-based (rfef.es and athletic-club.eus were blocked by the network proxy);
 | Stadium | Event | Event Date | Ticket Status |
 |---|---|---|---|
 | Estadio Metropolitano (Madrid) | Spain vs England — UEFA Nations League | 2026-11-15 20:45 | On sale now — via tickets.rfef.es only (Atletico member presale from 2026-09-22; re-released 2026-11-05 17:00 after irregularities; <2,500 left in final phase per RFEF). Medium confidence |
+
+## 2026-11-13
+
+Snippet-based (official domains incl. fcporto.pt and abola.pt blocked by the network proxy); seat map not verified first-hand.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio do Dragao (Porto) | FC Porto vs Sporting CP — "O Classico", Liga Portugal Betclic Matchday 12 | 2026-11-29 20:30 | On sale now — FC Porto opened sales 2026-11-11 10:00 via official club channels; EUR20–160 (medium confidence, A Bola report dated 2026-11-10) |
