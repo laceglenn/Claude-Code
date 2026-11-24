@@ -306,3 +306,18 @@ Snippet-based (atleticodemadrid.com and realmadrid.com blocked by the network pr
 | Estadio Metropolitano (Madrid) | Estopa concert — "La Maketa" tour [status update] | 2027-07-09 | On sale now — general sale scheduled 2026-11-17 22:22 via estopa.com (Atletico/band announcements); previously logged as announced. Medium confidence (opening not confirmed first-hand; esmadrid.com mentions 2026-11-20) |
 | Estadio Santiago Bernabeu (Madrid) | Real Madrid vs LASK — UEFA Champions League Matchday 7 | 2027-01-19 | VIP tickets on sale now (from EUR295); general public "coming soon", date not announced — official channels realmadrid.com / entradas.com |
 | Estadio Monumental (Buenos Aires) | U2 — "The Greatest Show on Earth" tour, third date | 2027-03-27 | Sold out on official channel (All Access) — reportedly all three dates sold out 2026-11-02 |
+
+## 2026-11-24
+
+Snippet-based (athletic-club.eus, realmadrid.com, allaccess.com.ar, bilhetes.fcporto.pt blocked by the network proxy); seat maps not verified first-hand. Read from origin/main before comparing.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio San Mames (Bilbao) | Athletic Club vs Real Madrid — LaLiga Matchday 15 | 2026-12-06 16:15 | On sale now — general public sale opened 2026-11-16 (max 4/person). Medium-high confidence |
+| Estadio Monumental (Buenos Aires) | U2 — "The Greatest Show on Earth" tour, 4th/final date | 2027-03-29 | On sale now — general sale scheduled 2026-11-18 13:00 via All Access (opening not confirmed first-hand). Medium confidence |
+| Estadio Santiago Bernabeu (Madrid) | Real Madrid vs Getafe CF — LaLiga Matchday 18 | 2027-01-03 | VIP on sale now (from EUR275); general public "coming soon", no date announced |
+| Estadio do Dragao (Porto) | FC Porto vs Estrela da Amadora — Liga Portugal Matchday 14 | 2026-12-13 | On sale now, from EUR13 (low-medium confidence; unofficial fan-site source) |
+| Estadio do Dragao (Porto) | FC Porto vs CD Nacional — Liga Portugal Matchday 16 | 2026-12-27 | On sale now, from EUR15 (low-medium confidence; unofficial fan-site source) |
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs Getafe CF — LaLiga | 2026-12-13 | Probably on sale (low-medium confidence; official ticket page snippet not tied to this fixture) |
+
+(Status notes: Mana at Estadio Monumental, 2026-12-10, has been on sale since 2026-06-19 — the 2026-11-06 "announced" row is outdated. Sporting CP vs Manchester United, Jose Alvalade, 2026-11-25, reported sold out on official channels. Real Madrid vs LASK and Atletico vs Fenerbahce general sale still not announced. Nueva Romareda opening now expected late 2027 at the earliest.)
