@@ -321,3 +321,30 @@ Snippet-based (athletic-club.eus, realmadrid.com, allaccess.com.ar, bilhetes.fcp
 | Estadio Anoeta (San Sebastian) | Real Sociedad vs Getafe CF — LaLiga | 2026-12-13 | Probably on sale (low-medium confidence; official ticket page snippet not tied to this fixture) |
 
 (Status notes: Mana at Estadio Monumental, 2026-12-10, has been on sale since 2026-06-19 — the 2026-11-06 "announced" row is outdated. Sporting CP vs Manchester United, Jose Alvalade, 2026-11-25, reported sold out on official channels. Real Madrid vs LASK and Atletico vs Fenerbahce general sale still not announced. Nueva Romareda opening now expected late 2027 at the earliest.)
+
+## 2026-11-25
+
+Snippet-based (realmadrid.com, atleticodemadrid.com, rcdespanyol.com, tickets.realsociedad.eus, slbenfica.pt, sporting.pt, webook.com blocked by the network proxy); seat maps not verified first-hand. Read from origin/main before comparing.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio de Balaidos (Vigo) | RC Celta vs AFC Bournemouth — UEFA Europa League [status update] | 2026-11-26 18:45 | On sale now — Carne Celtista 24h window (EUR25), then general public via rccelta.es / box offices; previously logged as not yet open. Medium-high confidence |
+| Estadio Metropolitano (Madrid) | Atletico Madrid vs Fenerbahce SK — UEFA Champions League [status update] | 2027-01-27 21:00 | On sale now — official listing shows member sale from 09-07, general public from 09-09 (from ~EUR40). Medium confidence |
+| Estadio Metropolitano (Madrid) | Atletico Madrid vs Real Betis — LaLiga MD15 [status update] | 2026-12-06 21:00 | On sale now — general public since 08-26 plus VIP; previously logged as ambiguous. Medium confidence |
+| RCDE Stadium (Barcelona) | RCD Espanyol vs RC Celta — LaLiga MD16 | 2026-12-13/14 21:00 | On sale now — from EUR35 (members EUR31.50, VIP EUR145). Medium-high confidence |
+| RCDE Stadium (Barcelona) | RCD Espanyol vs Valencia CF — LaLiga | 2026-12-20 | Probably on sale (club: all home games on sale until early January). Medium confidence |
+| RCDE Stadium (Barcelona) | RCD Espanyol vs FC Barcelona — LaLiga MD18 (derby) | 2027-01-03 | On sale now — official ticket page live, from ~EUR163. Medium confidence |
+| RCDE Stadium (Barcelona) | RCD Espanyol vs Villarreal CF — LaLiga MD21 | 2027-01-24 | Official ticket page live, from EUR35. Low-medium confidence |
+| Estadio Metropolitano (Madrid) | Atletico Madrid vs Valencia CF — LaLiga MD16 | 2026-12-13 14:00 | Member presale + VIP on sale; general public not yet open, no date |
+| Estadio Metropolitano (Madrid) | Atletico Madrid vs Real Racing Club — LaLiga MD19 | 2027-01-09/10 | Member sale open since 2026-09-22; general sale date unclear. Low-medium confidence |
+| Estadio Metropolitano (Madrid) | Atletico Madrid vs Real Sociedad — LaLiga MD20 | 2027-01-16/17 | On sale now (general + VIP). Medium confidence |
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs SCU Torreense — UEFA Europa League | 2026-12-10 ~21:00 | Listed on official ticket site (~EUR30–80); club fixtures page says sale not available. Low-medium confidence |
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs Viktoria Plzen — UEFA Europa League | 2027-01-21 | Listed on official ticket site; status unclear. Low confidence |
+| Estadio San Mames (Bilbao) | Athletic Club vs Real Betis — LaLiga | 2026-12-20 | Official ticket page exists; sale status not visible; hospitality ~EUR610–665. Low confidence |
+| Estadio do Sport Lisboa e Benfica (Lisbon) | SL Benfica vs FC Famalicao — Liga Betclic MD12 | 2026-11-30 20:15 | On sale now — general public since 11-17 15:00, EUR20–95. Medium-high confidence |
+| Estadio Jose Alvalade (Lisbon) | Sporting CP vs FC Barcelona — UEFA Champions League | 2027-01-20 | On sale (members since 11-11; general public from 11-16 if remaining, unconfirmed), from EUR21. Medium confidence |
+| Estadio Jose Alvalade (Lisbon) | Sporting CP vs CS Maritimo — Liga Betclic | 2026-12-04 20:15 | On sale now (official sporting.pt listing). Medium confidence |
+| Estadio Jose Alvalade (Lisbon) | Sporting CP vs GD Estoril Praia — Liga Betclic MD16 | 2026-12-20 12:00 | Listed with buy option on official site. Low-medium confidence |
+| Estadio Monumental (Buenos Aires) | Airbag concert (rescheduled from 10-31) | 2026-12-11 20:00 | On sale now — general sale since 2026-11-03 via All Access, ~ARS 80,500–138,000. Medium confidence |
+
+(Status notes: Benfica vs OFI Crete, Europa League, ~2026-12-10 — official sale held, reported sold out; not logged as an alert. Real Madrid vs LASK / vs Getafe general sale still "coming soon". Uruguay vs Argentina women's match logged 2026-09-15 as 2026-10-28 may actually have been 2025-10-28.)
