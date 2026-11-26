@@ -348,3 +348,20 @@ Snippet-based (realmadrid.com, atleticodemadrid.com, rcdespanyol.com, tickets.re
 | Estadio Monumental (Buenos Aires) | Airbag concert (rescheduled from 10-31) | 2026-12-11 20:00 | On sale now — general sale since 2026-11-03 via All Access, ~ARS 80,500–138,000. Medium confidence |
 
 (Status notes: Benfica vs OFI Crete, Europa League, ~2026-12-10 — official sale held, reported sold out; not logged as an alert. Real Madrid vs LASK / vs Getafe general sale still "coming soon". Uruguay vs Argentina women's match logged 2026-09-15 as 2026-10-28 may actually have been 2025-10-28.)
+
+## 2026-11-26
+
+Snippet-based (official ticketing domains blocked by the network proxy); seat maps not verified first-hand. Read from origin/main before comparing.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio de Balaidos (Vigo) | Alejandro Sanz — "¿Y Ahora Que+?" tour | 2027-07-03 | On sale now — sale opened 2026-11-24 10:00 via alejandrosanz.com / El Corte Ingles / entradas.com (rccelta.es). High confidence |
+| RCDE Stadium (Barcelona) | RCD Espanyol vs Real Betis — LaLiga MD19 | 2027-01-10 | On sale now — official match ticket page live. Medium-high confidence |
+| RCDE Stadium (Barcelona) | RCD Espanyol vs Real Racing Club (2027-03-07), vs Malaga CF (2027-04-11), vs Valencia CF (2027-05-16) | 2027-03-07, 2027-04-11, 2027-05-16 | Official ticket pages live (Racing: members EUR27 / general EUR30 / VIP EUR133). Low-medium confidence (may be placeholders or members-only) |
+| Estadio San Mames (Bilbao) | Athletic Club vs Villarreal CF — LaLiga | 2027-01-10 | VIP / Lion Experience on sale now; general sale date not announced. Medium confidence |
+| Camp Nou (Barcelona) | FC Barcelona vs Levante UD — LaLiga MD25 | 2027-02-20/21 | Possibly on sale (VIP Premium "secure your ticket", Basic temporarily unavailable). Low confidence |
+| Estadio San Mames (Bilbao) | Athletic Club vs Real Betis — LaLiga [status update] | 2026-12-20 | VIP / matchday-experience on sale now (from ~EUR665); general sale not announced. Previously logged as unclear. Medium confidence |
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs SCU Torreense — UEFA Europa League [status update] | 2026-12-10 (date conflicting in sources) | On sale now — buy option from EUR70 on official ticket site. Previously logged as unclear. Medium confidence |
+| Estadio Anoeta (San Sebastian) | Real Sociedad vs Viktoria Plzen — UEFA Europa League [status update] | 2027-01-21 18:45 | On sale now — buy option from EUR80 on official ticket site. Previously logged as unclear. Medium confidence |
+
+(Correction: RCD Espanyol vs Valencia CF, logged 2026-11-25 as 2026-12-20, is dated 2027-05-16 on the official club page. Not logged — announced only, no on-sale date: Real Madrid vs Betis 2027-01-24, vs Athletic 2027-02-14, vs Barcelona 2027-05-09; Atletico vs Espanyol, vs Elche, vs Real Madrid; Benfica vs Braga 2026-12-14, vs AZ 2027-01-28; Porto vs Slavia Praha 2027-01-19; Uruguayan final 1st leg at Centenario 2026-12-03, conditional on Racing beating Liverpool on 11-27.)
