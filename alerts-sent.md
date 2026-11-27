@@ -365,3 +365,15 @@ Snippet-based (official ticketing domains blocked by the network proxy); seat ma
 | Estadio Anoeta (San Sebastian) | Real Sociedad vs Viktoria Plzen — UEFA Europa League [status update] | 2027-01-21 18:45 | On sale now — buy option from EUR80 on official ticket site. Previously logged as unclear. Medium confidence |
 
 (Correction: RCD Espanyol vs Valencia CF, logged 2026-11-25 as 2026-12-20, is dated 2027-05-16 on the official club page. Not logged — announced only, no on-sale date: Real Madrid vs Betis 2027-01-24, vs Athletic 2027-02-14, vs Barcelona 2027-05-09; Atletico vs Espanyol, vs Elche, vs Real Madrid; Benfica vs Braga 2026-12-14, vs AZ 2027-01-28; Porto vs Slavia Praha 2027-01-19; Uruguayan final 1st leg at Centenario 2026-12-03, conditional on Racing beating Liverpool on 11-27.)
+
+## 2026-11-27
+
+Snippet-based (official ticketing domains blocked by the network proxy); seat maps not verified first-hand. Read from origin/main before comparing.
+
+| Stadium | Event | Event Date | Ticket Status |
+|---|---|---|---|
+| Estadio de Gran Canaria (Las Palmas) | UD Las Palmas vs RC Celta Fortuna — LaLiga Hypermotion MD18 | 2026-12-12 20:00 (LaLiga shows 12-13) | On sale now — club opened online sales 2026-11-26. Medium confidence |
+| Estadio de Gran Canaria (Las Palmas) | UD Las Palmas vs FC Andorra — LaLiga Hypermotion | 2026-11-28 13:00 (some sources 11-29) | On sale now — online sales since ~11-18/20. Low-medium confidence (local press) |
+| Estadio San Mames (Bilbao) | Athletic Club vs Real Betis — LaLiga MD17 [status update] | 2026-12-20 | Announced — general public sale opens 2026-11-30 (member presale until 11-30 10:30); VIP already on sale. Medium-high confidence (official club news 11-26) |
+
+(Status notes, not alerts: a second Estopa date at Metropolitano, 2027-07-08, appears on one non-official listing only — unconfirmed, not reported. Benfica vs Braga may be 2026-12-13, not 12-14. Porto vs Slavia Praha 2027-01-19 is reportedly Champions League. Uruguayan final 1st leg 12-03 venue still conditional; no sale yet.)
